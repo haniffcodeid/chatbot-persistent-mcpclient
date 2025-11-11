@@ -1,0 +1,22 @@
+# LangChain packages
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-community>=0.3.0
+langchain-text-splitters
+langgraph>=0.2.0
+
+# LangChain integrations
+langchain-google-genai
+langchain-groq
+
+# MCP adapter
+langchain-mcp-adapters
+
+# Other dependencies
+fastapi
+uvicorn[standard]
+asyncpg
+pymupdf
+python-multipart
+pydantic-settings
+python-dotenv
